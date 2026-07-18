@@ -9,8 +9,6 @@ __pycache__/
 *.db-*
 *.sqlite
 *.sqlite3
-data/raw/*
-data/processed/*
 results/raw/*
 results/processed/*
 figures/html/*
